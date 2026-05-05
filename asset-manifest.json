@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sale-watcher/static/css/main.e7d9d67c.css",
+    "main.js": "/sale-watcher/static/js/main.5e14e554.js",
+    "index.html": "/sale-watcher/index.html",
+    "main.e7d9d67c.css.map": "/sale-watcher/static/css/main.e7d9d67c.css.map",
+    "main.5e14e554.js.map": "/sale-watcher/static/js/main.5e14e554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7d9d67c.css",
+    "static/js/main.5e14e554.js"
+  ]
+}
